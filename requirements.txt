@@ -3,3 +3,5 @@ langchain_openai
 langchain_anthropic
 langchain_groq
 langchain_community
+duckduckgo-search
+wikipedia
